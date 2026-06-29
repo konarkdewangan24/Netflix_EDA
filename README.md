@@ -1,4 +1,3 @@
-# Netflix_EDA
 # Netflix Movies — Exploratory Data Analysis
 
 This project is an exploratory data analysis of a Netflix movie dataset. The goal was to clean the raw data and study patterns in genres, audience ratings, movie popularity, and release trends. The analysis was carried out using Python along with pandas, Matplotlib, and Seaborn for data handling and visualization.
